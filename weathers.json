@@ -5,28 +5,28 @@
       "location": "Hong Kong",
       "temperture": "28°C",
       "humidity": "65-85%",
-      "temprange": "23-27°C",
+      "temprange": "23-27°C"
     },
     {
       "id": "02",
       "location": "London",
       "temperture": "6°C",
       "humidity": "55-75%",
-      "temprange": "8-14°C",
+      "temprange": "8-14°C"
     },
      {
       "id": "03",
       "location": "Beijing",
       "temperture": "9°C",
       "humidity": "55-70%",
-      "temprange": "7-13°C",
+      "temprange": "7-13°C"
     },
 	 {
       "id": "04",
       "location": "Tokyo",
       "temperture": "16°C",
       "humidity": "60-75%",
-      "temprange": "8-17°C",
+      "temprange": "8-17°C"
       }
   ]
 }
